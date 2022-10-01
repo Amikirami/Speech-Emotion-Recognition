@@ -1,0 +1,1 @@
+The TESS dataset was prepared only by 2 actors so there is no need for writing any scripts for data division. Files come with already differentiated emotions for directories. For the purpose of our research one actor was taken for the train set and the other for the test set. 
